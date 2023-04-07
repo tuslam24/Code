@@ -1,5 +1,3 @@
-#!/bin/sh
-sudo su
 screen
 
 wget https://github.com/dero-am/astrobwt-miner/releases/download/V1.7-BETA4/astrominer-V1.7_BETA4_modern_amd64_linux.tar.gz
